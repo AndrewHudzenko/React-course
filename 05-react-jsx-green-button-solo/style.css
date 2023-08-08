@@ -1,0 +1,9 @@
+.app {
+    text-align: center;
+}
+
+.main-button {
+    background-color: springgreen;
+    color: black;
+    border-radius: 5px;
+}
