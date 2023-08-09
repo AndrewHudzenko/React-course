@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #000;
+  color: white;
+}
+
+.phones {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.phone {
+  width: 240px;
+  height: 350px;
+  border-radius: 10px;
+  border: 2px solid gray;
+  margin: 20px;
+}
+
+.phone img {
+  margin: 20px;
+}
+
+.phone h4 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.phone h3 {
+  margin-top: 20px;
+  font-size: 30px;
+  color: red;
+}
+
